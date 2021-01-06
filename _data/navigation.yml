@@ -5,8 +5,8 @@ main:
   - title: "Web"
     url: https://isun-dev.github.io/web/
   - title: "CS"
-    url: https://isun-dev.github.io/cs/
+    # url: https://isun-dev.github.io/cs/
   - title: "알고리즘"
-    url: https://isun-dev.github.io/algorithm/
+    # url: https://isun-dev.github.io/algorithm/
   - title: "끄적끄적"
-    url: https://isun-dev.github.io/other/
+    # url: https://isun-dev.github.io/other/
