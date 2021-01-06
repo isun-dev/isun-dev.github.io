@@ -3,10 +3,10 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Web"
-    url: https://isun-dev.github.io/categories/
+    url: https://isun-dev.github.io/web/
   - title: "CS"
-  #   url: /collection-archive/
+    url: https://isun-dev.github.io/cs/
   - title: "알고리즘"
-    # url: /year-archive/
+    url: https://isun-dev.github.io/algorithm/
   - title: "끄적끄적"
-  #   url: /sitemap/
+    url: https://isun-dev.github.io/other/
