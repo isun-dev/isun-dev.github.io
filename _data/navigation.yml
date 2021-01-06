@@ -4,11 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Web"
     # url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "CS"
+  #   url: /collection-archive/
   - title: "알고리즘"
     # url: /year-archive/
-  - title: "네트워크"
-  #   url: /collection-archive/
-  - title: "운영체제"
-  #   url: /sitemap/
   - title: "끄적끄적"
   #   url: /sitemap/
