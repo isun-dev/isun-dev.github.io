@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Web"
-    # url: https://mmistakes.github.io/minimal-mistakes/about/
+    # url: https://mmistakes.github.io/pages/web/
   - title: "CS"
   #   url: /collection-archive/
   - title: "알고리즘"
