@@ -2,8 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Web"
-    url: https://isun-dev.github.io/web/
+  - title: "알고리즘TIL"
+    url: https://isun-dev.github.io/algorithmtil/
   - title: "CS"
     # url: https://isun-dev.github.io/cs/
   - title: "알고리즘"
