@@ -281,10 +281,10 @@ defaults:
       related: true
 
 # working with collections
-collections:
-    algorithmtil:
-        output: true
-        permalink: /:collection/:path/
-    cstil:
-        output: true
-        permalink: /:collection/:path/
+# collections:
+#     algorithmtil:
+#         output: true
+#         permalink: /:collection/:path/
+#     cstil:
+#         output: true
+#         permalink: /:collection/:path/
