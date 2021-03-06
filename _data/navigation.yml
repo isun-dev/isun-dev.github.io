@@ -1,12 +1,6 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "알고리즘TIL"
+  - title: "알고리즘 TIL"
     url: https://isun-dev.github.io/algorithmtil/
-  - title: "CS"
-    # url: https://isun-dev.github.io/cs/
-  - title: "알고리즘"
-    # url: https://isun-dev.github.io/algorithm/
-  - title: "끄적끄적"
-    # url: https://isun-dev.github.io/other/
+  - title: "CS TIL"
+    url: https://isun-dev.github.io/cstil/
