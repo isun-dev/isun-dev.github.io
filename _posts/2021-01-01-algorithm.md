@@ -1,5 +1,6 @@
 ---
 title : "알고리즘"
+layout: collection
 permalink: /algorithmtil/
 collection: algorithmtil
 entries_layout: grid

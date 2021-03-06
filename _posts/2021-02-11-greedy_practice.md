@@ -1,5 +1,6 @@
 ---
 title : "모험가 길드(그리디 알고리즘)"
+layout: collection
 permalink: /algorithmtil/3
 collection: algorithmtil
 entries_layout: grid
