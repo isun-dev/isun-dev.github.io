@@ -1,6 +1,6 @@
 ---
 title : "모험가 길드(그리디 알고리즘)"
-permalink: /algorithmtil/
+permalink: /algorithmtil/3
 category : 
     - 알고리즘
 tag : 
