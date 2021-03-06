@@ -1,6 +1,6 @@
 # main links
 main:
   - title: "알고리즘 TIL"
-    url: https://isun-dev.github.io/algorithmtil/
+    url: /algorithmtil/
   - title: "CS TIL"
-    url: https://isun-dev.github.io/cstil/
+    url: /cstil/
