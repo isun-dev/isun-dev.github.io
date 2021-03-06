@@ -279,12 +279,4 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# working with collections
-# collections:
-#     algorithmtil:
-#         output: true
-#         permalink: /:collection/:path/
-#     cstil:
-#         output: true
-#         permalink: /:collection/:path/
+  
