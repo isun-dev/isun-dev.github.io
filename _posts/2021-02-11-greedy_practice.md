@@ -1,6 +1,9 @@
 ---
 title : "모험가 길드(그리디 알고리즘)"
 permalink: /algorithmtil/3
+collection: algorithmtil
+entries_layout: grid
+classes: wide
 category : 
     - 알고리즘
 tag : 
