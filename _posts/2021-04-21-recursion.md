@@ -1,3 +1,17 @@
+---
+title : "재귀함수"
+layout: collection
+permalink: /algorithmtil/19
+collection: algorithmtil
+entries_layout: grid
+classes: wide
+category : 
+    - 알고리즘
+tag : 
+    - 알고리즘
+toc : true
+---
+
 # 재귀함수
 
 - 반복문의 효과를 내는 것이 재귀 함수 이다.
