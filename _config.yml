@@ -90,7 +90,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: 방송 통신 대학교
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >
